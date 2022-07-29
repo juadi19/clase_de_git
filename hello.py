@@ -7,3 +7,6 @@ if (a > b):
     print('a es mayor a b')
 else:
     print('b es mayor a A')
+
+for i in range(10):
+    print(i)
